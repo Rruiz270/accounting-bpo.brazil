@@ -190,6 +190,21 @@ vercel --prod
 - **WAF** application firewall
 - **Monitoring** 24/7
 
+## 🇧🇷 Obrigações Suportadas
+
+- DAS - Documento de Arrecadação do Simples Nacional
+- DCTF - Declaração de Débitos e Créditos Tributários Federais
+- SPED Fiscal/Contábil
+- EFD-Contribuições
+- EFD-Reinf
+- eSocial
+- DIRF
+- ECF
+- IRPJ/CSLL
+- PIS/COFINS
+- ISS
+- ICMS
+
 ## 📈 Performance
 
 ### Métricas Alvo
